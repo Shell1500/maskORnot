@@ -35,7 +35,7 @@ The fast AI library is used to train a pre-trained [Convolutional neural network
 ![unsure](https://user-images.githubusercontent.com/40688468/118412811-7bf63180-b6b5-11eb-8871-8e7f9356b14b.png)
 
 
-## Training Process
+## Testing
 
 - Testing the trained model using an image in the drive. Shows Very High confidence.
 ![test](https://user-images.githubusercontent.com/40688468/118412842-a6e08580-b6b5-11eb-8520-b4db7b2a4e66.png)
