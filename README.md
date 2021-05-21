@@ -41,3 +41,7 @@ The fast AI library is used to train a pre-trained [Convolutional neural network
 ![test](https://user-images.githubusercontent.com/40688468/118412842-a6e08580-b6b5-11eb-8520-b4db7b2a4e66.png)
 
 
+## How to run
+
+- Either run the ```mask_identifier.ipynb``` on [Google Colab](https://colab.research.google.com/) using a GPU runtime to train the model yourself.
+- Or run the ```model_test.ipynb``` on a CPU runtime to test the model on your own pictures.
