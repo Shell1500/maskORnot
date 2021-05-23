@@ -1,5 +1,5 @@
 # maskORnot
-## An image classifier that detects weather an image contains a person wearing a mask or not.
+## An image classifier that detects whether an image contains a person wearing a mask or not.
 
 
 ##### Built using [pytorch](https://pytorch.org/) and [fastai](https://www.fast.ai/).
